@@ -68,7 +68,7 @@ Partial Class Form4
         Me.Controls.Add(Me.ButtonZOOMMAS)
         Me.Controls.Add(Me.web)
         Me.Name = "Form4"
-        Me.Text = "Form4"
+        Me.Text = "Directo"
         Me.ResumeLayout(False)
 
     End Sub

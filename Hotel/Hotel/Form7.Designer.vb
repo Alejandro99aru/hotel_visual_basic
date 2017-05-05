@@ -57,7 +57,7 @@ Partial Class Form7
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.ProgressBar1)
         Me.Name = "Form7"
-        Me.Text = "Form7"
+        Me.Text = "Cargando"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 

@@ -109,7 +109,7 @@ Partial Class Form5
         Me.Controls.Add(Me.txtbox_email)
         Me.Controls.Add(Me.PictureBox1)
         Me.Name = "Form5"
-        Me.Text = "Form5"
+        Me.Text = "Inicio de sesión"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
