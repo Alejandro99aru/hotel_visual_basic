@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Read me
 
-You can use the [editor on GitHub](https://github.com/Alejandro99aru/hotel_visual_basic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Funcionamiento del programa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nada mas ejecutar el programa se abrira la pantalla de inicio en la cual podemos ver información del hotel, le damos a continuar y nos aparecerá una pantalla de carga, cuando esta finalice nos mostrará el form principal.
 
-### Markdown
+En el form podemos seleccionar el tipo de habitacion que queremos, hay que tener en cuenta que si seleccionamos la mejor habitación, la suite real, podremos ver las vistas de la habitación en directo. También podemos seleccionar si queremos una habitación para fumadores y si queremos desayuno o no. El precio lo podemos ver abajo a la derecha de la ventana, podremos elegir entre varias divisas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Digamos que hemos seleccionado todo lo que queremos. Le damos al botón de pagar y se nos mostrará una ventana con el PDF de la factura que podremos imprimir.
 
-```markdown
-Syntax highlighted code block
+Si le damos a cancelar nos llevará de vuelta a la ventana principal.
 
-# Header 1
-## Header 2
-### Header 3
+### Observaciones del programa
 
-- Bulleted
-- List
+El programa está escrito en Visual Studio 2017 para macOS 10.12.4, esto nos permite a que se pueda ejecutar el programa desde distintos sistemas operativos tanto para Windows XP,7,8.1 y 10 como para macOS 10.6(Lion) hasta 10.12.7 beta 5(Sierra).
 
-1. Numbered
-2. List
+Debido a estar macOS basado en Unix podremos también ejecutar el programa desde la terminal.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alejandro99aru/hotel_visual_basic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para cualquier consulta, duda o encuentro de bug no dudeis en enviarme un email a alejandro99aru@gmail.com
